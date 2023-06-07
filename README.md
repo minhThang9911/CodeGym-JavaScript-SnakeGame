@@ -1,8 +1,7 @@
 # Retro Snake: A Nostalgic Adventure
 
 ![HTML/CSS/JS](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-![Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg)](https://github.com/minhThang9911/CodeGym-JavaScript-SnakeGame)
 
 Welcome to ***"Retro Snake"*** a classic game designed and coded by me truly using *HTML/CSS* and *JavaScript*. Get ready to embark on a nostalgic adventure as you guide the snake through a pixelated world filled with excitement and challenges. Whether you're playing on your computer with a keyboard or on your mobile device with a touchscreen, this game offers a seamless and enjoyable experience. Prepare to relive the past with its beautiful design, catchy game music, and the ability to save your settings and high scores.
 
