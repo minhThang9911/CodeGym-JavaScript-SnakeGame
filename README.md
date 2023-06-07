@@ -5,6 +5,8 @@
 
 Welcome to ***"Retro Snake"*** a classic game designed and coded by me truly using *HTML/CSS* and *JavaScript*. Get ready to embark on a nostalgic adventure as you guide the snake through a pixelated world filled with excitement and challenges. Whether you're playing on your computer with a keyboard or on your mobile device with a touchscreen, this game offers a seamless and enjoyable experience. Prepare to relive the past with its beautiful design, catchy game music, and the ability to save your settings and high scores.
 
+[Play online link: https://minhthang9911.github.io/CodeGym-JavaScript-SnakeGame/](https://minhthang9911.github.io/CodeGym-JavaScript-SnakeGame/ "Play online link: https://minhthang9911.github.io/CodeGym-JavaScript-SnakeGame/")
+
 **How to Play:**
 *Control the Snake:*
 > Using either the arrow keys on your keyboard or by swiping on the
